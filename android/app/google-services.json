@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "513771491654",
+    "project_id": "remindes1",
+    "storage_bucket": "remindes1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513771491654:android:0cffae917fb745bbd41547",
+        "android_client_info": {
+          "package_name": "com.smc.remindes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513771491654-h9ufu1msghapcisbt0ktt32ii3ps3l5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smc.remindes",
+            "certificate_hash": "11f49ad9de8d0863abcc2c400788fdda23ebe8c7"
+          }
+        },
+        {
+          "client_id": "513771491654-5e9nmrhsg8okcmhbdacj6i9s5fphovql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_OJ1lI3ZqQInsgNC1-6OHVrK0i8-AHoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513771491654-5e9nmrhsg8okcmhbdacj6i9s5fphovql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513771491654-ohk21raeec11ivtsn12rndqup9orqrhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smc.remindes"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1430798905214602~9546443957"
+    }
+  ],
+  "configuration_version": "1"
+}
